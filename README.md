@@ -33,4 +33,12 @@
 [![Keshav's github activity graph](https://activity-graph.herokuapp.com/graph?username=potatooBot&theme=react-dark)](https://github.com/potatooBot/github-readme-activity-graph)
 
 
+<div align="center">
+  
+  <div>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8gwrwaoo6hktvmgzwdjmxf7o3&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8gwrwaoo6hktvmgzwdjmxf7o3&unique={true|1|on|yes})
+  </div>
+  </div>
