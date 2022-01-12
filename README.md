@@ -12,3 +12,6 @@
 ![snake gif](https://github.com/potatooBot/potatooBot/blob/output/github-contribution-grid-snake.svg)
 
 [![Keshav's github activity graph](https://activity-graph.herokuapp.com/graph?username=potatooBot&theme=react-dark)](https://github.com/potatooBot/github-readme-activity-graph)
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lnot2ayozkfetbuj4hy6uxqiey&unique=1)
