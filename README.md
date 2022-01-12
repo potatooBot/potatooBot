@@ -16,9 +16,11 @@
 
 </p>
 
-
+<div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=potatooBot&theme=city-lights)](https://git.io/streak-stats)
 
+</div>
 ![snake gif](https://github.com/potatooBot/potatooBot/blob/output/github-contribution-grid-snake.svg)
 
 [![Keshav's github activity graph](https://activity-graph.herokuapp.com/graph?username=potatooBot&theme=react-dark)](https://github.com/potatooBot/github-readme-activity-graph)
