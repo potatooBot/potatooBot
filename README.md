@@ -10,3 +10,5 @@
 </p>
 
 ![snake gif](https://github.com/potatooBot/potatooBot/blob/output/github-contribution-grid-snake.svg)
+
+[![Keshav's github activity graph](https://activity-graph.herokuapp.com/graph?username=potatooBot&theme=react-dark)](https://github.com/potatooBot/github-readme-activity-graph)
