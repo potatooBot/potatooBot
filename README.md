@@ -14,4 +14,4 @@
 [![Keshav's github activity graph](https://activity-graph.herokuapp.com/graph?username=potatooBot&theme=react-dark)](https://github.com/potatooBot/github-readme-activity-graph)
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lnot2ayozkfetbuj4hy6uxqiey&unique=true)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8gwrwaoo6hktvmgzwdjmxf7o3&unique={true|1|on|yes})
