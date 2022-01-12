@@ -9,4 +9,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potatoobot&" alt="potatoobot" />
 </p>
 
-![snake gif](https://github.com/potatooBot/potatooBot/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/potatooBot/potatooBot/blob/output/github-contribution-grid-snake.svg)
