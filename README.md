@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/potatooBot/potatooBot/blob/main/assets/zoro-one-piece.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/potatooBot/potatooBot/blob/main/assets/zoro.gif">
 </div>
 <br>
 <div align="center">
