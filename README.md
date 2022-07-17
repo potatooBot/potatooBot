@@ -2,7 +2,7 @@
 
 <h3 align="center">I write funny lines/People call it code</h3>
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **kumarkeshav825@gmail.com**
 
